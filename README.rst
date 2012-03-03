@@ -9,6 +9,11 @@ Dependencies
 
 PyQt, Numpy and Matplotlib
 
+Usage
+=====
+
+Just run thorn.py
+
 Credits
 =======
 * windrose module modified from windrose 1.4 by Lionel Roubeyrie <lionel.roubeyrie@gmail.com>
