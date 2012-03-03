@@ -3,7 +3,7 @@
 
 __version__ = '1.4'
 __author__ = 'Lionel Roubeyrie / MOD: Arif Widi Nugroho'
-__mail__ = 'lionel.roubeyrie@gmail.com / arif@hexarius.com'
+__mail__ = 'lionel.roubeyrie@gmail.com / arif@sainsmograf.com'
 __license__ = 'CeCILL-B'
 
 import matplotlib

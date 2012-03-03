@@ -1,7 +1,7 @@
 '''
 Created on Mar 2, 2012
 
-@author: arif
+@author: Arif Widi Nugroho <arif@sainsmograf.com>
 
 Thorn -- A Windrose Creator
 '''
