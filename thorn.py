@@ -61,7 +61,7 @@ class Qt4MplCanvas(FigureCanvas):
 class MainWindow(QMainWindow):
     def __init__(self, parent=None):
         super(MainWindow, self).__init__(parent)
-        self.setWindowTitle("Thorn - A Windrose Generator")
+        self.setWindowTitle('Thorn - A Windrose Generator')
         self.main_widget = QWidget(self)
         
         vbl = QGridLayout(self.main_widget)
